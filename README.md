@@ -5,20 +5,20 @@ API to support Eatalog client application.
 
 ## ERD
 
--   [`Link`](http://i.imgur.com/CTXS3V7.jpg)
+-   [Link](http://i.imgur.com/CTXS3V7.jpg)
 
 ## Links
 
--   [`Deployed API`](https://morning-mountain-68152.herokuapp.com/)
--   [`Client repository`](https://github.com/vanduong28/eatalog)
--   [`Deployed client app`](https://vanduong28.github.io/eatalog/)
+-   [Deployed API](https://morning-mountain-68152.herokuapp.com/)
+-   [Client repository](https://github.com/vanduong28/eatalog)
+-   [Deployed client app](https://vanduong28.github.io/eatalog/)
 
 ## Technologies Used
 -   Ruby
 -   Rails
 
 ## API Endpoints
-In command line, type ```rake routes``` to view routes.
+In command line, type `rake routes` to view routes.
 
 | Verb   | URI Pattern            | Controller#Action    |
 |--------|------------------------|----------------------|
