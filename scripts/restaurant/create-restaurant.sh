@@ -23,7 +23,7 @@ curl "${API}${URL_PATH}" \
   --data '{
     "restaurant": {
       "name": "'"${NAME}"'",
-      "city": "'"${STATE}"'",
+      "city": "'"${CITY}"'",
       "cuisine": "'"${CUISINE}"'",
       "neighborhood": "'"${NEIGHBORHOOD}"'",
       "date_dined": "'"${DATE}"'",
